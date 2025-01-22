@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ducks are so cool and awesome and amazing woo
+=======
+world
+(i didn't edit this on github)
+>>>>>>> 79f02dd6c1e8a5c520f3abafb7be8a1f406580eb
